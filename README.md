@@ -2,7 +2,7 @@
 
 ## Objective
 
-This simple file manager for Linux, written in Python is designed to sort various type of files, including audio (mp3, wav), image (png,jpg), text (txt, csv), and more in their respective directory. It can be configured to any type of file format.
+This simple file manager for Linux, written in Python, is designed to sort various type of files, including audio (mp3, wav), image (png,jpg), text (txt), and more in their respective directory. It can be configured to any type of file format.
 
 ### Skills Learned
 
@@ -10,6 +10,8 @@ This simple file manager for Linux, written in Python is designed to sort variou
 - Working with directory paths.
 - Moving files to directories using Python.
 - Working with both 'os' and 'shutil' libraries
+- Deleting files in Python.
+- Whitelisting a file format which is supposed to be moved to a directory.
 
 ### Tools Used
 

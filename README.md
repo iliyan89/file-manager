@@ -12,7 +12,6 @@ This simple file manager for Linux, written in Python is designed to sort variou
 - Working with both 'os' and 'shutil' libraries
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - PyCharm Community Edition (Linux version)
 - Python

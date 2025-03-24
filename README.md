@@ -18,11 +18,21 @@ This simple file manager for Linux, written in Python, is designed to sort vario
 - PyCharm Community Edition (Linux version)
 - Python
   
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Result
 
-Every screenshot should have some text explaining what the screenshot is about.
+1. Empty location (only directories present)
+   
+![fm-1](https://github.com/user-attachments/assets/9278da15-2a7f-4e22-849e-8a5a37577da3)
 
-Example below.
+2. Creating different file formats
 
-*Ref 1: Network Diagram*
+![fm-2](https://github.com/user-attachments/assets/7c37dd51-8763-4fce-9835-f15056afc7a2)
+
+3. Running the script
+
+![fm-3](https://github.com/user-attachments/assets/5bdd81a0-6793-4907-a737-02d73d41930a)
+
+4. Showing the moved files into their respective directory.
+
+![fm-4](https://github.com/user-attachments/assets/a8b54fbb-1627-45bf-9054-af90e9e2853c)
+
